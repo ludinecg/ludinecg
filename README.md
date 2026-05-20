@@ -50,7 +50,7 @@ What I'm strongest at: query optimisation, stored procedures, indexing strategy,
 | Project | What it shows | Stack |
 |---|---|---|
 | [**financial-sql-optimization**](https://github.com/ludinecg/financial-sql-optimization) | Full SQL tuning cycle on a 1M-row financial dataset. Logical reads cut by 75–99% on three of four benchmark queries. | SQL Server 2022, Docker, Python |
-| [**data-validation-api**](https://github.com/ludinecg/data-validation-api) *(in progress)* | REST API for transaction validation. Designed to plug into upstream data pipelines and reject bad records early. | Python, Flask, Docker, Render |
+| [**data-validation-api**](https://github.com/ludinecg/data-validation-api) | REST API for transaction validation. Designed to plug into upstream data pipelines and reject bad records early. | Python, Flask, Docker, Render |
 | **financial-analytics-dashboard** *(coming)* | Tableau Public dashboard built on the same dataset — KPI cards, time-series, heatmap by hour/weekday. | Tableau Public |
 | **ai-quality-evaluator** *(coming)* | Framework for evaluating LLM responses across accuracy, completeness, and hallucination risk. | Python, OpenAI API |
 
