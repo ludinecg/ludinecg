@@ -67,7 +67,9 @@ What I'm strongest at: query optimisation, stored procedures, indexing strategy,
 ## GitHub stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ludinecg&show_icons=true&hide_border=true&hide_title=true&count_private=true&hide=issues" alt="GitHub stats" />
+  <img src="https://img.shields.io/github/followers/ludinecg?label=Followers&style=flat-square&color=0A66C2" />
+  <img src="https://img.shields.io/github/stars/ludinecg?label=Total%20stars&style=flat-square&color=F2C811&affiliations=OWNER" />
+  <img src="https://img.shields.io/badge/Repos-Public-181717?style=flat-square&logo=github" />
 </p>
 
 ---
